@@ -1,2 +1,7 @@
 npm run build
 firebase deploy
+
+
+https://firebase.google.com/docs/auth/web/start
+
+https://console.firebase.google.com/project/new-project-bc535/overview?fb_gclid=CjwKCAjw6vHHBhBwEiwAq4zvAxVGBaoaLwjuf3qxDlx7ySC9yvzsMoH4fF7yA_bvPnrROh-fek7bzhoCa5oQAvD_BwE
